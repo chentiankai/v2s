@@ -75,6 +75,7 @@ func loadConfig(configFileName string) (*Config, error) {
 }
 
 func main() {
+	
 	// 打印版本信息
 	printVersion()
 
